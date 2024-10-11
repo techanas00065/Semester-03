@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\new project\percentage\percentage\bin\Debug\percentage.exe.config
+C:\Users\Student\Desktop\new project\percentage\percentage\bin\Debug\percentage.exe
+C:\Users\Student\Desktop\new project\percentage\percentage\bin\Debug\percentage.pdb
+C:\Users\Student\Desktop\new project\percentage\percentage\obj\Debug\percentage.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\new project\percentage\percentage\obj\Debug\percentage.Form1.resources
+C:\Users\Student\Desktop\new project\percentage\percentage\obj\Debug\percentage.Properties.Resources.resources
+C:\Users\Student\Desktop\new project\percentage\percentage\obj\Debug\percentage.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\new project\percentage\percentage\obj\Debug\percentage.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\new project\percentage\percentage\obj\Debug\percentage.exe
+C:\Users\Student\Desktop\new project\percentage\percentage\obj\Debug\percentage.pdb
